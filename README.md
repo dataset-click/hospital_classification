@@ -1,2 +1,3 @@
 # hospital_classification
-Blind Review
+NVD algorithm in Java
+Source code for paper submitted in the journal
